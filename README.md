@@ -1,5 +1,8 @@
 # UrbanPotatoClient
 
+The name "Urban Potato" was suggested by github.
+The backend for this project is [this repo](https://github.com/jacobmeneses/urban-potato)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## Development server
